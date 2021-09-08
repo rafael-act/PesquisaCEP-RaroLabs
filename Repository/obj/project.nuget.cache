@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VcZO4H2OaXk3oEurkILbBQxbUMRbjB0OSZFBp4nLXSf5RPNsFGHrjB5yonJlMN5TyiH/1tvOlzo+F7vxh60/dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\PesquisaCEP-RaroLabs\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
